@@ -25,3 +25,6 @@ bld/
 
 # manual cmake build ignores
 build/
+
+
+.DS_store
